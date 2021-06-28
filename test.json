@@ -1,0 +1,41 @@
+{
+	"data": {
+		"id": "C0000787",
+		"total_time": 70,
+		"mp4_url": "https:\/\/cdn.littlefox.co.kr\/contents_5\/movie\/480\/7dea28d3e1\/f5b42d44534c6f29c532c2962d88ad50.mp4?0716123002",
+		"m3u8_url": "https:\/\/cdn.littlefox.co.kr\/contents_5\/hls\/480\/7dea28d3e1\/m5734a1e30\/f5b42d44534c6f29c532c2962d88ad50.m3u8?0716123004",
+		"next_content": {
+			"id": "C0000791",
+			"type": "S",
+			"name": "Magic Marker 10",
+			"sub_name": "My Favorite Color Is Blue",
+			"thumbnail_url": "https:\/\/img.littlefox.co.kr\/static\/contents\/img\/C0000791\/notext_ipad.jpg?1563247940",
+			"level": 2,
+			"open_date": "2003-11-25",
+			"service_info": {
+				"service": "Y",
+				"story": "Y",
+				"original_text": "Y",
+				"vocabulary": "N",
+				"quiz": "Y",
+				"sentence": "N",
+				"crossword": "N",
+				"translate": "N",
+				"starwords": "N",
+				"ebook": "Y"
+			},
+			"user_service_info": {
+				"story": "N",
+				"original_text": "N",
+				"vocabulary": "N",
+				"quiz": "N",
+				"sentence": "N",
+				"crossword": "N",
+				"translate": "N",
+				"starwords": "N",
+				"ebook": "N"
+			}
+		},
+		"preview_time": 29
+  }
+}
